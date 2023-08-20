@@ -1,8 +1,0 @@
-streamlit
-sqlalchemy
-psycopg2-binary
-dotenv
-langchain
-textblob
-spacy
-sklearn
